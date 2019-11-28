@@ -1,3 +1,7 @@
+/**
+.* @supported 0916CBB5B1B6
+.*/
+
 var obj = JSON.parse($response.body);
 
 var id = obj.userid;
